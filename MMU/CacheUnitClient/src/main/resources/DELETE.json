@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "action": "DELETE"
+  },
+  "body": [
+    {
+      "dataModelId": 111111,
+      "content": "Some String Data"
+    },
+    {
+      "dataModelId": 111112,
+      "content": "Some String Data"
+    },
+    {
+      "dataModelId": 111115,
+      "content": "Some String Data"
+    },
+    {
+      "dataModelId": 432118,
+      "content": "null8"
+    },
+    {
+      "dataModelId": 432119,
+      "content": "null9"
+    },
+    {
+      "dataModelId": 432117,
+      "content": "null7"
+    },
+    {
+      "dataModelId": 1,
+      "content": "#1#"
+    },
+    {
+      "dataModelId": 2,
+      "content": "#2#"
+    },
+    {
+      "dataModelId": 4321111,
+      "content": "null11"
+    }
+  ]
+}
